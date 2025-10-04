@@ -30,9 +30,13 @@ The Purpose of this tutorial is to demonstrate how to create Step by Step Dynami
 
 📌 Background created in Canva
 
-📊 Dataset Credit: Heart Failure Clinical Records – UCI Machine Learning Repository Authors: Davide Chicco and Giuseppe Jurman Source: https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records License: Creative Commons Attribution 4.0 International (CC BY 4.0) – https://creativecommons.org/licenses/by/4.0/
+📊 Dataset Credit: Heart Failure Clinical Records – UCI Machine Learning Repository Authors: Davide Chicco and Giuseppe Jurman Source: https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records License: Creative Commons Attribution 4.0 International (CC BY 4.0) –https://creativecommons.org/licenses/by/4.0/
 
 
 🎨 Image Credit: Image by Freepik – https://www.freepik.com/free-psd/3d-rendering-realistic-heart_344840361.htm
 
 🎨 Icon Credit: Icon by Flaticon - Author: Sudowoodo 📌 https://www.flaticon.com/free-icon/person_13482183 📌 https://www.flaticon.com/free-icon/avatar_13482193
+
+DASHBOARD SCREENSHOT: https://github.com/myrout/HEART-DISEASE-ANALYSIS-DASHBOARD/blob/main/Screenshot%20(226).png
+
+
